@@ -11,4 +11,3 @@ En mi blog trato de temas importantes dentro de la Introduccion al software:
 1. Unidad 1:
 2. Unidad 2:
 3. Unidad 3:
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
